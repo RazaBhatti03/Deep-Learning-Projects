@@ -42,6 +42,8 @@ The main goal of this project is to:
   - Data Processing: Pandas, NumPy  
   - Visualization: Matplotlib, Seaborn  
   - Machine Learning: Scikit-learn  
+  - Deep Learning: TensorFlow, Keras  
+- **Environment**: Jupyter Notebook 
 
 ---
 ##  Dataset
